@@ -2,7 +2,7 @@ package gitWorks;
 
 public class SalesData {
 
-	int data[] = {0, 4, 42}; /*-?|first_review|Winston.vijay|c0|?*/
+	int data[] = {0, 4, 42, 55, 66}; /*-?|first_review|Winston.vijay|c0|?*/
 	
 	//display method
 	public void display() {
